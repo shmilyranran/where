@@ -79,6 +79,7 @@
 @import '~@/assets/mixins.styl'
 .icons >>>.swiper-container
  height:0
+ margin-top:.1rem
  padding-bottom:50%
  .icon
   position:relative
